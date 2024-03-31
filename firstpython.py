@@ -1,1 +1,2 @@
-hey frinds nothing much hrere
+class ap:
+    pass 
