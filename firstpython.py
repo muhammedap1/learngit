@@ -1,2 +1,2 @@
 class ap:
-    pass 
+    print('AP will not pass')
